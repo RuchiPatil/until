@@ -1,0 +1,40 @@
+body {
+  height: 100%;
+  text-align: center;
+  padding: 70px 50px;
+  background: #0D1A29;
+  font-family: helvetica;
+}
+h1 {
+    font-family: helvetica;
+    color: white;
+    text-shadow: 0 0 20px #48C8FF;
+    font-weight: 200;
+}
+#timer {
+  font-size: 3em;
+  font-weight: 100;
+  color: white;
+  text-shadow: 0 0 20px #48C8FF;
+}
+  div {
+    top: 50%;
+    left: 50%;
+    display: inline-block;
+    min-width: 90px;
+}
+    span {
+      color: #B1CDF1;
+      display: block;
+      font-size: .35em;
+      font-weight: 400;
+    }
+
+
+
+span {
+  color: #B1CDF1;
+  display: block;
+  font-size: .35em;
+  font-weight: 400;
+}
